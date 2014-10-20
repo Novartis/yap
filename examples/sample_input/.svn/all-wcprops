@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/NITAS_SAS_USCA/!svn/ver/123168/YetAnotherPipeline/branches/opensource/examples/sample_input
+END
+human_sample1_1.fq
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/NITAS_SAS_USCA/!svn/ver/123148/YetAnotherPipeline/branches/opensource/examples/sample_input/human_sample1_1.fq
+END
+sample_with_contaminants_1.fq
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/NITAS_SAS_USCA/!svn/ver/122756/YetAnotherPipeline/branches/opensource/examples/sample_input/sample_with_contaminants_1.fq
+END
+human_sample2_1.fq
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/NITAS_SAS_USCA/!svn/ver/123148/YetAnotherPipeline/branches/opensource/examples/sample_input/human_sample2_1.fq
+END
+human_sample1_2.fq
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/NITAS_SAS_USCA/!svn/ver/123148/YetAnotherPipeline/branches/opensource/examples/sample_input/human_sample1_2.fq
+END
+sample_with_contaminants_2.fq
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/NITAS_SAS_USCA/!svn/ver/122756/YetAnotherPipeline/branches/opensource/examples/sample_input/sample_with_contaminants_2.fq
+END
+human_sample3_1.fq
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/NITAS_SAS_USCA/!svn/ver/123148/YetAnotherPipeline/branches/opensource/examples/sample_input/human_sample3_1.fq
+END
+human_sample2_2.fq
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/NITAS_SAS_USCA/!svn/ver/123148/YetAnotherPipeline/branches/opensource/examples/sample_input/human_sample2_2.fq
+END
+human_sample4_1.fq
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/NITAS_SAS_USCA/!svn/ver/123148/YetAnotherPipeline/branches/opensource/examples/sample_input/human_sample4_1.fq
+END
+human_sample3_2.fq
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/NITAS_SAS_USCA/!svn/ver/123148/YetAnotherPipeline/branches/opensource/examples/sample_input/human_sample3_2.fq
+END
+chipseq_control_sample1.fq
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/NITAS_SAS_USCA/!svn/ver/123168/YetAnotherPipeline/branches/opensource/examples/sample_input/chipseq_control_sample1.fq
+END
+human_sample4_2.fq
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/NITAS_SAS_USCA/!svn/ver/123148/YetAnotherPipeline/branches/opensource/examples/sample_input/human_sample4_2.fq
+END
+chipseq_control_sample2.fq
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/NITAS_SAS_USCA/!svn/ver/123168/YetAnotherPipeline/branches/opensource/examples/sample_input/chipseq_control_sample2.fq
+END
+chipseq_target_sample1.fq
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/NITAS_SAS_USCA/!svn/ver/123168/YetAnotherPipeline/branches/opensource/examples/sample_input/chipseq_target_sample1.fq
+END
+chipseq_target_sample2.fq
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/NITAS_SAS_USCA/!svn/ver/123168/YetAnotherPipeline/branches/opensource/examples/sample_input/chipseq_target_sample2.fq
+END
+mothur_sample.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/NITAS_SAS_USCA/!svn/ver/123152/YetAnotherPipeline/branches/opensource/examples/sample_input/mothur_sample.fasta
+END

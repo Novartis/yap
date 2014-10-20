@@ -1,0 +1,40 @@
+10
+
+dir
+125078
+http://nebula.na.novartis.net:81/svn/NITAS_SAS_USCA/YetAnotherPipeline/branches/opensource/examples/preconfigured_workflows
+http://nebula.na.novartis.net:81/svn/NITAS_SAS_USCA
+
+
+
+2014-10-02T17:05:01.599845Z
+124685
+kulkatr1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7ac1dc96-93ff-4a15-8571-0f60a0ed51eb
+
+variant_call
+dir
+
+bacterial_classification
+dir
+
+rnseq_qc_counts
+dir
+
+chipseq
+dir
+

@@ -1,0 +1,131 @@
+Note:
+
+Directroy "accessory_files" is a place holder for reference files required for the analysis. Contains empty files to show as an example.
+Please note that these file names are according to the example configuration files provided. You can create new or use already exisitng index, gtf or other reference files as long as they are compatible with the packages you are about to run. Make sure to change file paths/names in the configuration files accordingly.
+
+#hg19 genome fasta file
+	hg19.fa
+
+#Index file hg19.fa, created by samtools. Many packages require this to be in the same
+directory as the genome fasta file. 
+	hg19.fa.fai
+
+#Sequence Dictionary file for hg19.fa, created by picardtools. Many Picard-tools and GATK commands require this to be in the same
+directory as the genome fasta file. 
+	hg19.dict
+
+#bowtie index files for hg19
+	hg19.1.ebwt
+	hg19.2.ebwt
+        hg19.3.ebwt 
+        hg19.4.ebwt
+	hg19.rev.1.ebwt
+	hg19.rev.2.ebwt
+
+#Bowtie2 index files for hg19
+	hg19.1.bt2
+	hg19.2.bt2
+	hg19.3.bt2
+	hg19.4.bt2
+  	hg19.rev.1.bt2
+	hg19.rev.2.bt2
+
+#Tophat index files for transcriptome using bowtie2
+	hg19_refgene.transcriptome.1.bt2
+	hg19_refgene.transcriptome.2.bt2
+	hg19_refgene.transcriptome.3.bt2
+	hg19_refgene.transcriptome.4.bt2
+	hg19_refgene.transcriptome.rev.1.bt2
+	hg19_refgene.transcriptome.rev.2.bt2
+	hg19_refgene.transcriptome.fa
+	hg19_refgene.transcriptome.gff
+
+#BWA index files for hg19 
+	hg19.amb
+	hg19.ann
+	hg19.bwt
+	hg19.pac
+	hg19.sa
+
+#databases files required to run fastq screen against possible contaminant
+genomes. 
+	fastqscreen_databases/adapters_db/:
+	contaminant_list.fa  
+	contaminants.2.ebwt
+	contaminants.4.ebwt
+	contaminants.rev.2.ebwt
+	contaminants.1.ebwt
+	contaminants.3.ebwt
+	contaminants.rev.1.ebwt  
+
+	fastqscreen_databases/Ecoli_db/:
+	ecoli.1.ebwt
+	ecoli.2.ebwt
+	ecoli.3.ebwt  
+	ecoli.4.ebwt 
+	ecoli.fa
+	ecoli.rev.1.ebwt
+	ecoli.rev.2.ebwt
+
+	fastqscreen_databases/phiX_db/:
+	phiX.1.ebwt
+	phiX.2.ebwt 
+	phiX.3.ebwt
+	phiX.4.ebwt
+	phiX.fa 
+	phiX.rev.1.ebwt
+	phiX.rev.2.ebwt
+
+	fastqscreen_databases/Vector_db/:
+	UniVec.1.ebwt
+	UniVec.2.ebwt
+	UniVec.3.ebwt
+	UniVec.4.ebwt
+	UniVec.fa
+	UniVec.rev.1.ebwt
+	UniVec.rev.2.ebwt
+
+	fastqscreen_databases/yeast_db/:
+	Saccharomyces_cerevisiae.EF4.65.dna.toplevel.fa
+	Saccharomyces_cerevisiae.rev.1.ebwt
+	Saccharomyces_cerevisiae.1.ebwt  
+	Saccharomyces_cerevisiae.4.ebwt
+	Saccharomyces_cerevisiae.rev.2.ebwt
+
+# Index files for Broad version of hg19 to work with GATK 
+ 	gatk/:
+	dbSNP137.vcf
+	hg19.amb
+	hg19.ann
+	hg19.bwt
+	hg19.dict
+	hg19.fa
+	hg19.fa.fai
+	hg19.pac
+	hg19.sa
+
+#An interval list file that contains the locations of the targets for picard commands for hg19 
+	TruSeq_exome_targeted_regions_for_picard
+
+#An interval list file that contains the locations of the targets for picard commands for broad version of hg19
+	refSeq_hg19_exons
+
+#REF FLAT file for picard RNASeq Metrics 
+	human_refflat_for_picard.gff
+
+#Ribosomal intervals for picard rnaseq metrics 
+	Homo_sapiens_assembly19.rRNA.interval_list
+
+#Reference transcript annotations for Tophat and Cufflinks
+	human-ucsc-refGene.gtf
+
+#Index files for mothur package for phiX and silva
+	ncbi-phiX.8mer
+	ncbi-phiX.fa
+	SSURef_NR99_115.SSURef_NR99_115_tax_silva_IDsonly.8mer.numNonZero
+	SSURef_NR99_115.SSURef_NR99_115_tax_silva_IDsonly.8mer.prob
+	SSURef_NR99_115.tax
+	SSURef_NR99_115_tax_silva_IDsonly.8mer
+	SSURef_NR99_115_tax_silva_IDsonly.fasta
+	SSURef_NR99_115.tree.sum
+	SSURef_NR99_115.tree.train

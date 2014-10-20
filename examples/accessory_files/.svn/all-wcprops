@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/NITAS_SAS_USCA/!svn/ver/123103/YetAnotherPipeline/branches/opensource/examples/accessory_files
+END
+SSURef_NR99_115.tree.sum
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/SSURef_NR99_115.tree.sum
+END
+SSURef_NR99_115.SSURef_NR99_115_tax_silva_IDsonly.8mer.prob
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/SSURef_NR99_115.SSURef_NR99_115_tax_silva_IDsonly.8mer.prob
+END
+hg19.ann
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.ann
+END
+hg19.rev.1.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.rev.1.bt2
+END
+SSURef_NR99_115.tree.train
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/SSURef_NR99_115.tree.train
+END
+hg19.rev.2.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.rev.2.bt2
+END
+SSURef_NR99_115.SSURef_NR99_115_tax_silva_IDsonly.8mer.numNonZero
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/SSURef_NR99_115.SSURef_NR99_115_tax_silva_IDsonly.8mer.numNonZero
+END
+human-ucsc-refGene.gtf
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/human-ucsc-refGene.gtf
+END
+ncbi-phiX.8mer
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/ncbi-phiX.8mer
+END
+hg19.rev.1.ebwt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.rev.1.ebwt
+END
+human-ucsc-final_exon_coord.bed
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/human-ucsc-final_exon_coord.bed
+END
+SSURef_NR99_115_tax_silva_IDsonly.8mer
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/SSURef_NR99_115_tax_silva_IDsonly.8mer
+END
+hg19.amb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.amb
+END
+hg19.1.ebwt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.1.ebwt
+END
+SSURef_NR99_115.tax
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/SSURef_NR99_115.tax
+END
+hg19.3.ebwt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.3.ebwt
+END
+hg19.pac
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.pac
+END
+hg19.sa
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.sa
+END
+Homo_sapiens_assembly19.rRNA.interval_list
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/Homo_sapiens_assembly19.rRNA.interval_list
+END
+hg19_refgene.transcriptome.fa
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19_refgene.transcriptome.fa
+END
+hg19_refgene.transcriptome.1.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19_refgene.transcriptome.1.bt2
+END
+hg19_refgene.transcriptome.2.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19_refgene.transcriptome.2.bt2
+END
+hg19_refgene.transcriptome.3.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19_refgene.transcriptome.3.bt2
+END
+hg19_refgene.transcriptome.4.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19_refgene.transcriptome.4.bt2
+END
+SSURef_NR99_115_tax_silva_IDsonly.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/SSURef_NR99_115_tax_silva_IDsonly.fasta
+END
+hg19.dict
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.dict
+END
+hg19.fa.fai
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.fa.fai
+END
+hg19_refgene.transcriptome.gff
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19_refgene.transcriptome.gff
+END
+hg19.1.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.1.bt2
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/NITAS_SAS_USCA/!svn/ver/123103/YetAnotherPipeline/branches/opensource/examples/accessory_files/README
+END
+hg19.fa
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.fa
+END
+hg19.2.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.2.bt2
+END
+hg19.3.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.3.bt2
+END
+hg19.4.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.4.bt2
+END
+hg19.rev.2.ebwt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.rev.2.ebwt
+END
+hg19.bwt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.bwt
+END
+human_refflat_for_picard.gff
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/human_refflat_for_picard.gff
+END
+TruSeq_exome_targeted_regions_for_picard.bed
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/TruSeq_exome_targeted_regions_for_picard.bed
+END
+ncbi-phiX.fa
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/ncbi-phiX.fa
+END
+hg19.2.ebwt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.2.ebwt
+END
+hg19.4.ebwt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19.4.ebwt
+END
+human-ucsc-final_exon_coord_number.bed
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/human-ucsc-final_exon_coord_number.bed
+END
+hg19_refgene.transcriptome.rev.1.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19_refgene.transcriptome.rev.1.bt2
+END
+hg19_refgene.transcriptome.rev.2.bt2
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/NITAS_SAS_USCA/!svn/ver/123011/YetAnotherPipeline/branches/opensource/examples/accessory_files/hg19_refgene.transcriptome.rev.2.bt2
+END

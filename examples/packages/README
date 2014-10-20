@@ -1,0 +1,46 @@
+Note:
+
+This Package directory is a place holder for packages required for the analysis. Contains empty files for the program executables to show as an example. 
+You can also see specific versions of packages which we have already tested for compatibility. 
+Feel free to install the packages or point to your already existing packages according to your analysis. Also, make sure to change file paths/names in the configuration files accordingly.
+
+Here are the source websites for packages listed in the example configuration files.
+
+BWA:
+http://bio-bwa.sourceforge.net/
+
+Bowtie2:
+http://bowtie-bio.sourceforge.net/bowtie2/index.shtml
+
+Bowtie:
+http://bowtie-bio.sourceforge.net/index.shtml
+
+MACS2:
+https://pypi.python.org/pypi/MACS2
+
+Picard-tools:
+http://picard.sourceforge.net/
+
+Fastq Screen:
+http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/
+
+Fastqc:
+http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+
+Fastx toolkit:
+http://hannonlab.cshl.edu/fastx_toolkit/
+
+Tophat:
+http://ccb.jhu.edu/software/tophat/index.shtml
+
+Cufflinks:
+http://cufflinks.cbcb.umd.edu/
+
+Htseq:
+www-huber.embl.de/users/anders/HTSeq/doc/overview.html
+
+Mothur:
+http://www.mothur.org/
+
+GATK:
+www.broadinstitute.org/gatk/

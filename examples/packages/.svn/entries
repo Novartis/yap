@@ -1,0 +1,101 @@
+10
+
+dir
+125078
+http://nebula.na.novartis.net:81/svn/NITAS_SAS_USCA/YetAnotherPipeline/branches/opensource/examples/packages
+http://nebula.na.novartis.net:81/svn/NITAS_SAS_USCA
+
+
+
+2014-09-04T17:53:09.286837Z
+123167
+kulkatr1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7ac1dc96-93ff-4a15-8571-0f60a0ed51eb
+
+tophat
+dir
+
+picard-tools
+dir
+
+fastqc
+dir
+
+macs
+dir
+
+cufflinks
+dir
+
+htseq
+dir
+
+gatk
+dir
+
+fastx-toolkit
+dir
+
+bwa
+dir
+
+bowtie
+dir
+
+bowtie2
+dir
+
+README
+file
+
+
+
+
+2014-09-03T18:51:13.000000Z
+9d3d13ec9cefaa409764af8445b66c86
+2014-09-04T15:37:19.823784Z
+123152
+kulkatr1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1210
+
+mothur
+dir
+
+FastQScreen
+dir
+

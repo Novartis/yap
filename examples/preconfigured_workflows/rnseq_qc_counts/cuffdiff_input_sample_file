@@ -1,0 +1,4 @@
+human_sample1_1 human_sample2_1
+human_sample1_1,human_sample3_1 human_sample2_1
+human_sample1_1 human_sample2_1 human_sample3_1 human_sample4_1
+human_sample2_1 human_sample3_1,human_sample4_1
