@@ -84,7 +84,7 @@ def workflow_validator(workflow_struct, workflow_config_file, run_mode):
         workflow_config_dict = workflow_struct[wk]
 	YAP_HOME= str(os.getenv("YAP_HOME"))
         yap_src = YAP_HOME + "/bin"
-        yap_version = "YAP-2.3"
+        yap_version = "YAP-1.0"
         workflow_config_dict["yap_version"]=yap_version
         workflow_config_dict["yap_src"]=yap_src
         workflow_config_dict["usage_log"]="/usr/prog/yap/usage/usage.log"
