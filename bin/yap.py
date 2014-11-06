@@ -84,7 +84,6 @@ if (myrank == 0):
     else:
         print_usage = 'True'
     if print_usage == 'True':
-        print "Running :", wd.yap_version
         print "Options : "
         print " To print help : ", " yap --help or yap -h"
         print " To do configuration file format check : ", " yap --check [workflow_configuration_filename], ", "\"eg: yap --check workflow_configuration.cfg \""
